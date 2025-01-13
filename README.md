@@ -1,2 +1,8 @@
-# Donor_Flow
-Modular app supporting donor registration, admin management, hospital requests, and organization campaigns.
+<<<<<<< HEAD
+Red Drop:An Blood donating web.
+=======
+# Blood-Bank-Mern-Stack-Project
+
+
+
+>>>>>>> b1cfae9 (Initial commit)
